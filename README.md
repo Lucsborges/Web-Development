@@ -24,5 +24,5 @@ This Project (as the main content of the course) is divided in the following sec
 17. PHP 7 & MySQL - Aplicated Project Twitter Clone
 18. API using Slim Framework
 19. SASS
-20. Creatubg Mobile Apllications using IONIC
+20. Creating Mobile Apllications using IONIC
 21. Wordpress
